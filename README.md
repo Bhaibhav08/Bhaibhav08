@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaibhav Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate third-year Computer Science Engineering student with expertise in HTML, CSS, C++, Python, and AI. Experienced in solving complex problems and developing innovative solutions. Excited to collaborate and contribute to impactful projects on GitHub.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaibhav08&label=Profile%20views&color=0e75b6&style=flat" alt="bhaibhav08" /> </p>
 
